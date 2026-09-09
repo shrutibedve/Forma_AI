@@ -22,19 +22,6 @@
 
 </div>
 
----
-
-# 🎬 Demo
-
-<div align="center">
-
-<!-- Replace this with your own demo GIF -->
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="550"/>
-
-</div>
-
----
 
 # ✨ Overview
 
